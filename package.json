@@ -1,6 +1,7 @@
 {
   "name": "brreg-mcp",
-  "version": "0.1.0",
+  "version": "0.1.1",
+  "mcpName": "io.github.hellosverre/brreg",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc",
