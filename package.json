@@ -3,6 +3,10 @@
   "version": "0.1.1",
   "mcpName": "io.github.hellosverre/brreg",
   "main": "dist/index.js",
+  "files": [
+    "dist",
+    "server.json"
+  ],
   "scripts": {
     "build": "tsc",
     "dev": "tsx src/index.ts",
